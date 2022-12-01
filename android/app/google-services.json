@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "2468184539",
+    "firebase_url": "https://my-firebase-test-94e78-default-rtdb.firebaseio.com",
+    "project_id": "my-firebase-test-94e78",
+    "storage_bucket": "my-firebase-test-94e78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2468184539:android:8ef7b121e1416c4929e7fe",
+        "android_client_info": {
+          "package_name": "com.example.coin_seller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2468184539-kp59usbp1gf0fl33l3nhcsaub9tlq6fq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1vwGBcxdWD2NXkzyduJ6WaHebFuAhb1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2468184539-kp59usbp1gf0fl33l3nhcsaub9tlq6fq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
